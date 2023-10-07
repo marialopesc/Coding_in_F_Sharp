@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lDi+Cm3qpb34Qh5OlE4ajl2V7eSCnqXzODYH5b7rNaby/OWKHd1lZFDHFvyqj1eqf8IV2eXMO8kwIyIktS0vAA==",
+  "success": true,
+  "projectFilePath": "/Users/mariacunha_1/CLionProjects/CS 341/HW2/HW2.fsproj",
+  "expectedPackageFiles": [
+    "/Users/mariacunha_1/.nuget/packages/fsharp.core/7.0.400/fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
