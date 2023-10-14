@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wx0XtZ4KkB1PV9VDVlH7+cBMP9oq249de2AhCBJwXM5/hF0TxKM6EISQm71vVyiGaFvPsFPQMi0LK5UO0s5wOw==",
+  "success": true,
+  "projectFilePath": "/Users/mariacunha_1/hw03/main/main.fsproj",
+  "expectedPackageFiles": [
+    "/Users/mariacunha_1/.nuget/packages/fsharp.core/7.0.400/fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
